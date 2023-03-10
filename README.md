@@ -1,5 +1,5 @@
 # Communiti
-This project aims to help organize all the club activities that happen in PESU Campuses and help students fully utilize the opportunities provided by the clubs in the institution whilst also providing a quick and highly responsive medium of communication for all the student-run activities.
+This project aims to help organize all the club activities that happen in PES University, Bangalore Campuses and help students fully utilize the opportunities provided by the clubs in the institution whilst also providing a quick and highly responsive medium of communication for all the student-run activities.
 
 Some Screenshots of the React App:
 <br>
